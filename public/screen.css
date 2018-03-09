@@ -7,7 +7,7 @@
 }
 
 .body-style {
-  background-color: grey;
+  background-color: #0B5135;
 }
 
 .body-font {
@@ -19,6 +19,21 @@
   background-color: lightgrey;
   margin: .2em;
   padding: .3em;
+}
+
+.a-style, .d-style {
+  border-color: #422C14;
+  background-color: #AA5900;
+}
+
+.b-style {
+  border-color: #422214;
+  background-color: #422214;
+}
+
+.c-style {
+  border-color: #3F1319;
+  background-color: #A20016;
 }
 
 /* Phone display */
