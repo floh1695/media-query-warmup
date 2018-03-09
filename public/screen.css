@@ -7,33 +7,30 @@
 }
 
 .body-style {
-  background-color: #0B5135;
+  background-color: #783f8e;
 }
 
 .body-font {
-  font: 1em / 1.2 sans-serif;
+  font: 1em / 1.2em sans-serif;
 }
 
 .section-style {
   border: .1em solid darkgrey;
   background-color: lightgrey;
   margin: .2em;
-  padding: .3em;
+  padding: 1em;
 }
 
-.a-style, .d-style {
-  border-color: #422C14;
-  background-color: #AA5900;
+.outer-style {
+  border-color: #4f1271;
+  background-color: #4a4063;
+  color: #c8c6d7;
 }
 
-.b-style {
-  border-color: #422214;
-  background-color: #422214;
-}
-
-.c-style {
-  border-color: #3F1319;
-  background-color: #A20016;
+.inner-style {
+  border-color: #4a4063;
+  background-color: #bfacc8;
+  color: #4f1271;
 }
 
 /* Phone display */
